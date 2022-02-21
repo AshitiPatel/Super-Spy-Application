@@ -1,0 +1,5 @@
+1234
+The cook worked 12 hours.
+I am hungry.
+Did Fred look well? That's it!
+EOF
